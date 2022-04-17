@@ -1,0 +1,21 @@
+1;Paper hat
+1;Bandana
+1;Balaclava
+2;Baseball cap
+2;Granny's hat
+2;Panama hat
+3;Captain's hat
+3;Turban
+3;Santa's hat
+4;Jewish cap
+4;Ushanka
+4;Vietnamese hat
+5;Unholy tiara
+5;Frying pan
+5;Rusty crown
+6;Cast iron sombrero
+6;Goalie mask
+6;Cycle helmet
+7;Chef’s Hat
+7;Cobra's hood
+7;Arai helmet

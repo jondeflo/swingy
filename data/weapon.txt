@@ -1,0 +1,22 @@
+1;Corncob
+1;Golden toothpick
+1;Paper clip
+2;Huge icicle
+2;Granny's bag
+2;Broken drill
+3;Frozen sausage
+3;Cotton sword
+3;Screwdriver
+4;Silver fork
+4;Inflatable hammer
+4;Disposable knife
+5;Birch branch
+5;Sharped spinner
+5;Boiling kettle
+6;Meat mincer
+6;Cheese cutter
+6;Jaws
+7;Flat bucket
+7;Crab's claws
+7;Scissors
+

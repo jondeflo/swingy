@@ -1,0 +1,14 @@
+1;Sunglasses
+1;Surgeon's mask
+2;Plastic bag
+2;Oyster's shell
+3;Iron socks
+3;Roller's pads
+4;BBQ cage
+4;Catsuite
+5;Cutting board
+5;Bicycle wheel
+6;Kitten fur shield
+6;Foil bra
+7;Yellow pages
+7;Lead collar
